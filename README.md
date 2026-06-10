@@ -56,16 +56,3 @@ The demo program prints the computed call and put prices for such inputs.
 - Educational: small, well-separated modules make it easy to follow the math and the code.
 - Practical: drop-in functions for quick prototyping and verification of pricing logic.
 
-## Next steps (ideas)
-
-- Add unit tests and CI (GitHub Actions)
-- Add more option models (e.g., implied volatility solver, Black‑76, local vol)
-- Provide worked examples and Jupyter notebooks for visualization
-
-## License
-
-MIT — feel free to reuse and adapt. Contributions welcome.
-
----
-
-If you'd like, I can add a quick example run, unit tests, or CI workflow next.
